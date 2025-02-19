@@ -77,4 +77,4 @@ This project is licensed under the MIT License.
 Feel free to submit issues or pull requests to improve this project.
 
 ## Author
-[Yash Sahu](https://github.com/yourusername)
+[Yash Sahu](https://github.com/yashsahu2001)

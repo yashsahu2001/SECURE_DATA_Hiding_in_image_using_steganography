@@ -60,7 +60,7 @@ This window comes erery times when you execute the code For Decrypt(By clicking 
 ![encoded_image](https://github.com/user-attachments/assets/f39c1f32-9e56-4238-b4c6-d12afa5ef6fe)
 Choose the encoded_image to decrypt
 
-![Decoded Message](https://github.com/user-attachments/assets/60d1c1fa-9172-4c30-bbf7-94e7c70c74da)
+![Decoded Image](https://github.com/user-attachments/assets/623c8082-e662-4fea-a647-c121865243f1)
 Then the message you have given at the beginning it will show
 
 ## Future Scope

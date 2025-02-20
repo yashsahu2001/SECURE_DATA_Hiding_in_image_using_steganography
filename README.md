@@ -40,7 +40,8 @@ pip install pillow numpy opencv-python tk
 ## Command Prompt
 <img width="491" alt="image" src="https://github.com/user-attachments/assets/1757b0ae-024d-4fb9-b653-2af37c7659fd" />
 Running the code using command prompt by using command
-### python stego.py
+
+python stego.py
 
 ### Original Image
 ![Test](https://github.com/user-attachments/assets/30ecb2a0-a864-4943-a4f4-7f08d0783965)
